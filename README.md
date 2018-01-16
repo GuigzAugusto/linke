@@ -1,2 +1,2 @@
 # linke
-Inicial development of site
+Initial development
